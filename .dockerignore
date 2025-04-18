@@ -1,0 +1,1 @@
+COPY prisma/schema.prisma ./prisma/schema.prisma
