@@ -1,0 +1,17 @@
+### GET /
+GET http://localhost:5000
+
+
+###
+
+POST http://localhost:5000/auth/register/
+
+{
+  "username": "shooks",
+  "password": "secret"
+}
+
+
+
+
+###

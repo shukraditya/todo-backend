@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -134,3 +135,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+node_modules
+# Keep environment variables out of version control
+.env
+>>>>>>> 6e4519c (before prisma changes, but prisma schema exists, prismaClient.js also exists, but not integrated.)
